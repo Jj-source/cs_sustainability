@@ -1,0 +1,8 @@
+qwen-vl-utils
+datasets
+torch
+transformers
+jupyter
+ipykernel
+torchvision
+accelerate
