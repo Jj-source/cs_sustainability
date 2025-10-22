@@ -1,0 +1,32 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# PyTorch model files (optional - remove if you want to track models)
+*.pt
+*.pth
+
+# Large data files (optional)
+*.h5
+*.pkl
+*.pickle
+
+# OS files
+.DS_Store
+Thumbs.db
